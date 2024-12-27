@@ -118,7 +118,7 @@ src/
 
 **Aryan Acharya**
 - GitHub: [@aryan1112003](https://github.com/aryan1112003)
-- Portfolio: [View Portfolio](#)
+![image](https://github.com/user-attachments/assets/69705b1b-bf89-438e-a15a-f756dce80cc0)
 
 ## 📄 License
 
